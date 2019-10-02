@@ -1,0 +1,6 @@
+H:\hocKy5\aspx\laptopshop_master\laptopshop_master\bin\laptopshop_master.dll.config
+H:\hocKy5\aspx\laptopshop_master\laptopshop_master\bin\laptopshop_master.dll
+H:\hocKy5\aspx\laptopshop_master\laptopshop_master\bin\laptopshop_master.pdb
+H:\hocKy5\aspx\laptopshop_master\laptopshop_master\obj\Debug\laptopshop_master.csprojResolveAssemblyReference.cache
+H:\hocKy5\aspx\laptopshop_master\laptopshop_master\obj\Debug\laptopshop_master.dll
+H:\hocKy5\aspx\laptopshop_master\laptopshop_master\obj\Debug\laptopshop_master.pdb
